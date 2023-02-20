@@ -160,4 +160,3 @@ dependencies:
     - pymed==0.8.9
     - qtconsole==5.4.0
     - requests==2.28.2
-prefix: D:\soft\Anaconda\envs\202302-pubmed
