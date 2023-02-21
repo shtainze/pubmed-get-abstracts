@@ -1,5 +1,5 @@
 # pubmed-get-abstracts
-Get the list of abstracts on PubMed based on a user-input query
+Get the list of abstracts on PubMed based on your query, and export all as a single file
 
 クエリに合致するPubMedの論文のAbstractをまとめたファイルを生成します。
 
