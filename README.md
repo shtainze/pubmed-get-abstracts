@@ -27,3 +27,9 @@ conda env create -f=environment.yml
 All the usage is explained in the comments of the .ipynb file. I hope you enjoy!
 
 その後の使い方は.ipynbファイル内のコメントに記載しました。お役に立てば幸いです!
+
+Screenshots are available here:
+
+また、下記記事でもスクリーンショット付きで紹介しています:
+
+https://qiita.com/shtainze/private/8a26eedf532a88f0294f?fbclid=IwAR3gZcikINa6wU8vowyhcytqybe_yXNNzxcQaC7O5cgUw--2TqQ5jExmP3U
